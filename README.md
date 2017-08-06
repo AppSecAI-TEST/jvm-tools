@@ -1,4 +1,4 @@
-Swiss Java Knife
+Swiss Java Knife (SJK)
 =========
 [![Build Status](https://travis-ci.org/aragozin/jvm-tools.png?branch=master)](https://travis-ci.org/aragozin/jvm-tools)
 
@@ -8,9 +8,9 @@ SJK exploits standard diagnostic interfaces of JVM (such as JMX, JVM attach and 
 to be useful for common troubleshooting case.
 
 
-Prebuild binaries for version 0.6 are below
-- [sjk.jar - all commands without mxdump](https://repo1.maven.org/maven2/org/gridkit/jvmtool/sjk/0.6/sjk-0.6.jar)
-- [sjk-plus.jar - all commands](https://repo1.maven.org/maven2/org/gridkit/jvmtool/sjk/0.6/sjk-plus-0.6.jar)
+Prebuild binaries for version [![Last Version](https://img.shields.io/maven-central/v/org.gridkit.jvmtool/sjk.svg)](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.gridkit.jvmtool%22) are below
+- [sjk.jar - all commands without mxdump](https://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=org.gridkit.jvmtool&a=sjk&v=LATEST)
+- [sjk-plus.jar - all commands](https://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=org.gridkit.jvmtool&a=sjk-plus&v=LATEST)
 
 
 Starting sjk
